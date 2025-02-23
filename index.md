@@ -2,4 +2,4 @@
 
 ## Assembled Robot 
 
-![Image] (realcat.JPG) 
+![Image](realcat.JPG) 
