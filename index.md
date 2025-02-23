@@ -2,4 +2,4 @@
 
 ## Assembled Robot 
 
-![Image] (meow.JPG)
+![Image] (realcat.jpeg) 
