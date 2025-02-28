@@ -6,8 +6,8 @@ This is the assembled robot prototyle as of 2/28/2025.
 
 
 ### Side View
-![Image](IMG9212.PNG)
+![Image](IMG_9212.PNG)
 ### Top View
-![Image](IMG9213.PNG)
+![Image](IMG_9213.PNG)
 ### Bottom View 
-![Image](IMG9214.PNG)
+![Image](IMG_9214.PNG)
