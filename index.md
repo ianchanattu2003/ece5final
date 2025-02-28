@@ -2,7 +2,7 @@
 
 ## Assembled Robot Prototype
 
-This is the assembled robot prototyle as of 2/28/2025. 
+This is the assembled robot prototype as of 2/28/2025. 
 
 
 ### Side View
