@@ -13,5 +13,5 @@ This is the assembled robot prototype as of 2/28/2025.
 ![Image](bottomview.jpg)
 
 #So here's a video of our robot following a line
-![](IMG_9217.mp4)
-<video src="IMG_9217.mp4" controls preload></video>
+![](IMG_9217_1.mov)
+<video src="IMG_9217_1.mov" controls preload></video>
