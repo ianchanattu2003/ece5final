@@ -11,3 +11,6 @@ This is the assembled robot prototype as of 2/28/2025.
 ![Image](topview.png)
 ### Bottom View 
 ![Image](bottomview.jpg)
+
+![](IMG_9217.mp4)
+<video src="IMG_9217.mp4" controls preload></video>
