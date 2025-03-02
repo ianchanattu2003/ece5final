@@ -1,17 +1,28 @@
-# <span style="color:blue">ECE 5 Final Project</span>
 
-## Assembled Robot Prototype
+# <span style="color:blue">ECE 5 Final Project</span>
+## Team 9: [NAME TBD]
+### Group Members
+- Ariel A. 
+- Luke H.
+- MacKenzie F.
+- Tina N.
+
+
+### Assembled Robot Prototyping
 
 This is the assembled robot prototype as of 2/28/2025. 
 
 
-### Side View
+#### Side View
 ![Image](sideview.jpg)
-### Top View
+#### Top View
 ![Image](topview.png)
-### Bottom View 
+#### Bottom View 
 ![Image](bottomview.jpg)
 
-# So here's a video of our robot following a line
+### So here's a video of our robot following a line
 ![](IMG_9217_1.mov)
 <video src="IMG_9217_1.mov" controls preload width="720" height="480"></video>
+
+
+### PID Control Explained [TBD] 
