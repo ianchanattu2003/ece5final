@@ -1,3 +1,4 @@
+<body style="background-color: lightgreen;"> 
 
 # <span style="color:blue">ECE 5 Final Project</span>
 ## Team CATalyst (Team 9)
