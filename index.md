@@ -34,9 +34,11 @@ PID control stands for "Proportional, Integral, Derivative" Control and it is a 
 Our chosen PID values were:
 - Circle Track:
 - Wave Track:
-- Drag Race: 
+- Drag Race:
+  
 Our chosen speed is:
 - Circle:
 - Wave:
 - Drag Race:
+
 We chose these speed values because: 
