@@ -1,5 +1,3 @@
-<body style="background-color: beige;"> 
-
 # <span style="color:blue">ECE 5 Final Project</span>
 ## Team CATalyst (Team 9)
 <image src = "catalyst.png" width="480" height="480"></image>
