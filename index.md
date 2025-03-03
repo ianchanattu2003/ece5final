@@ -1,6 +1,7 @@
 
 # <span style="color:blue">ECE 5 Final Project</span>
 ## Team 9: [NAME TBD]
+<image src = "catalyst.png" width="480" height="480"></image>
 ### Group Members
 - Ariel A. 
 - Luke H.
