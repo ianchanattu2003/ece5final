@@ -38,7 +38,8 @@ This is the assembled robot prototype as of 2/28/2025.
 
 PID control stands for "Proportional, Integral, Derivative" Control and it is a feedback based control loop that responds to error in order to manage the control of an object. In our case we use PID for our robot in order to keep it following the black line that makes up the track being followed. 
 Our chosen PID values were:
-- Circle Track:
+- Loop Track:
+     Base speed: 50, S: 200, P: 98, I: 0.02, D: 2.72
 - Wave Track:
 - Drag Race:
   
