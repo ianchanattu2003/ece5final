@@ -13,7 +13,9 @@
 <video src="IMG_9217_1.mov" controls preload width="720" height="480"></video>
 
 ### Last minute improvements
-#### Here are the changes we made in the last week of our project!! 
+#### Here are the changes we made in the last week of our project to both the code and hardware.  
+We moved our LED strip closer to the photoresistors on the underside of the robot so that the front wheel would not inhibit light from the LEDs. We reprinted our chassis, adding more supports around the motors to prevent the chassis from bending or breaking. In order to give the speed potentiometer more range, we changed the range of the SpRead variable in the line following code from 100 to 200. We also increased the factors on kP and kD, since we were regularly using P and D near the highest position to accommodate the high speed values. Moreover, to accurately see when our robot has finished calibrating, we added an LED directly onto the Arduino and implemented the necessary code to physically signal the calibration.
+
 
 ### Assembled Robot Prototyping
 
