@@ -12,6 +12,9 @@
 ### So here's a video of our robot following a line
 <video src="IMG_9217_1.mov" controls preload width="720" height="480"></video>
 
+### Last minute improvements
+#### Here are the changes we made in the last week of our project!! 
+
 ### Assembled Robot Prototyping
 
 This is the assembled robot prototype as of 2/28/2025. 
