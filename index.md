@@ -7,8 +7,12 @@
 - MacKenzie F.
 - Tina N.
 
+<image src = "IMG_9449.PNG" width="720" height="480"></image>
+
 <image src="ECE 5 Poster Team CATalysts.jpg" width="1080" height = "720"></image>
 
+### COMPETITION DAY VIDEO
+<video src="IMG_2267(1)(1).mov" controls preload width="720" height="480"></video>
 ### So here's a video of our robot following a line
 <video src="IMG_9217_1.mov" controls preload width="720" height="480"></video>
 
