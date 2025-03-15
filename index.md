@@ -13,6 +13,10 @@
 
 ### COMPETITION DAY VIDEO
 <video src="IMG_2267(1)(1).mov" controls preload width="720" height="480"></video>
+**Our ranking is as follows:**
+Frequency Sweep: 2nd with 15 rounds
+Drag Race: Made the quarterfinals
+Loop: 14.3 rounds
 ### So here's a video of our robot following a line
 <video src="IMG_9217_1.mov" controls preload width="720" height="480"></video>
 
@@ -41,10 +45,5 @@ This is the assembled robot prototype as of 2/28/2025.
 ### PID Control Explained 
 
 PID control stands for "Proportional, Integral, Derivative" Control and it is a feedback based control loop that responds to error in order to manage the control of an object. In our case we use PID for our robot in order to keep it following the black line that makes up the track being followed. 
-Our chosen SPID values were:
-- Loop Track: \
-     Base speed: 50, S: 200, P: 98, I: 0.02, D: 2.72
-- Wave Track:
-- Drag Race:
-  
+Our chosen SPID values were a base speed of 55, a P value that was scaled by a factor of 3.0, a I factor scaled by 0.004 and a D scaled by a factor of 0.4. This was done to make sure that P was the most important of the PID Control, while I and D contributed as needed depending on the track. While we didn't collect exact values, for the drag race, we turned out speed up to the max (around 255 speed), and had a bit of P and D, with I at 0. This was because there were very minor turns so we didn't need our robot to make sharp turns. For the loop track, we turned up P and D by about an equal amount on the potentiomers, and upped I a bit as well. S was also chosen to be a more reasonable value. This was done to account for the sharper turns on the loop. Finally, for the frequency sweep track, we turned up P to around the maximum it could be while turning down speed. This was done to ensure the robot could make sharp turns. 
 
