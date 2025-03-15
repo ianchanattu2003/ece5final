@@ -18,7 +18,7 @@
 **Our ranking is as follows:** \
 Frequency Sweep: 2nd with 15 rounds \
 Drag Race: Made the quarterfinals \
-Loop: 14.3 rounds 
+Loop: 5th place, 14.3 rounds 
 ### Final Competition Robot
 Note we ended up removing the cardboard portions of the light shield due to their flimsiness, and the fact that our pink lightshield that is annotated did a good enough job at blocking out light!
 ![annotation](https://github.com/user-attachments/assets/3154e582-04bf-4091-ad34-3d5fd487076a)
