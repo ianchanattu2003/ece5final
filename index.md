@@ -1,6 +1,10 @@
 # <span style="color:blue">ECE 5 Final Project</span>
 ## Team CATalyst (Team 9)
 <image src = "catalyst.png" width="480" height="480"></image>
+
+
+<image src="ECE 5 Poster Team CATalysts.jpg" width="1080" height = "720"></image>
+
 ### Group Members
 - Ariel A. 
 - Luke H.
@@ -8,8 +12,6 @@
 - Tina N.
 
 <image src = "team.jpg" width="720" height="480"></image>
-
-<image src="ECE 5 Poster Team CATalysts.jpg" width="1080" height = "720"></image>
 
 ### COMPETITION DAY VIDEO
 <video src="IMG_2267(1)(1).mov" controls preload width="720" height="480"></video>
