@@ -15,7 +15,7 @@
 
 ### COMPETITION DAY VIDEO
 <video src="IMG_2267(1)(1).mov" controls preload width="720" height="480"></video>
-**Our ranking is as follows:**
+**Our ranking is as follows:** \
 Frequency Sweep: 2nd with 15 rounds \
 Drag Race: Made the quarterfinals \
 Loop: 14.3 rounds 
