@@ -6,10 +6,10 @@
 <image src="ECE 5 Poster Team CATalysts.jpg" width="1080" height = "720"></image>
 
 ### Group Members
-- Ariel A. 
 - Luke H.
-- MacKenzie F.
+- Ariel A.
 - Tina N.
+- MacKenzie F. 
 
 <image src = "team.jpg" width="720" height="480"></image>
 
