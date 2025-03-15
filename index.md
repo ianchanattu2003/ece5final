@@ -7,7 +7,7 @@
 - MacKenzie F.
 - Tina N.
 
-<image src = "image945.jpeg" width="720" height="480"></image>
+<image src = "image945.JPEG" width="720" height="480"></image>
 
 <image src="ECE 5 Poster Team CATalysts.jpg" width="1080" height = "720"></image>
 
